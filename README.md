@@ -4,4 +4,4 @@ My current project is MechAi, an app that allows you to take a picture of your c
 
 You can also find me on:
 - [LinkedIn](https://www.linkedin.com/in/rajib-lama-559552154/)
-- [Website](http://rajiblama.com/)
+- [Website](http://www.rajiblama.com/)
